@@ -4,6 +4,18 @@ A production-ready full-stack task management application featuring Role-Based A
 
 **🔗 [View Live Application](https://team-task-manager-phi-six.vercel.app/)**
 
+## 🔑 Demo Credentials
+
+To quickly explore the application, you can use the following test accounts:
+
+### 👑 Admin Access
+Email: admin@test.com  
+Password: password123  
+
+### 👤 Member Access
+Email: member@test.com  
+Password: password123  
+
 ## ✨ Key Features
 - **Authentication & Authorization:** Secure JWT-based login with hashed passwords (bcrypt).
 - **Role-Based Access Control (RBAC):**
