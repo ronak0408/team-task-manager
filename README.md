@@ -22,7 +22,7 @@ A production-ready full-stack task management application featuring Role-Based A
 
 **1. Clone the repository:**
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/team-task-manager.git
+git clone https://github.com/ronak0408/team-task-manager.git
 cd team-task-manager
 \`\`\`
 
